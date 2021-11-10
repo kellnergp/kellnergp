@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there
+
+Graduated from Virginia Commonwealth University in 2016 with a Bachelor's of Science in Biomedical Engineering.
+
+Currently learning Data Analytics at the University of Richmond bootcamp.
 
 <!--
 **kellnergp/kellnergp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
