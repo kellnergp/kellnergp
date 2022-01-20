@@ -2,7 +2,9 @@
 
 Graduated from Virginia Commonwealth University in 2016 with a Bachelor's of Science in Biomedical Engineering.
 
-Currently learning Data Analytics at the University of Richmond bootcamp.
+Recently graduated from the Data Analytics Bootcamp at the University of Richmond.
+
+I am most familiar with Python, MATLAB, and HTML/Javascript with some experience with VBA and MySQL. 
 
 <!--
 **kellnergp/kellnergp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
